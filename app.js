@@ -1,2 +1,1 @@
-console.log("Prueba en master");
-console.log("Prueba de pull request");
+console.log("Github Resository Test");
